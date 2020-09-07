@@ -11,7 +11,17 @@ Python files Where CHanges have been made:
   * Class Decoder
     - __init__
     - call
-
+2. model.py
+  * PGN
+    - __init__
+    - call_encoder
+    - call
+3. training_helper.py
+    - train_step
+    
+4. batcher 
+  * Vocab
+    - output_to_words
 
 To Run the code please run the below command at the console:
 
