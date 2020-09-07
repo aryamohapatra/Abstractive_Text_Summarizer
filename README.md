@@ -1,6 +1,6 @@
 # Abstractive Text Summarization
 
-Teps to Run the code:
+Steps to Run the code:
 
 Get the data
   -   Preprocessed data from : https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail
